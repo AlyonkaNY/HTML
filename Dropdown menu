@@ -57,3 +57,10 @@
          Burgundy</option>
 </select>
 
+<form>
+  <label for="s1">Select currency:</label>
+  <select name="currency" id="s1">
+    <option>Euro</option>
+    <option>US Dollar</option>
+  </select>
+</form>
