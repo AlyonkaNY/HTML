@@ -1,0 +1,59 @@
+<html>
+  <head>
+    <title>Drop-down Menu</title>
+  </head>
+  <body>
+    <form>
+      <label for="dropdown">
+      Choose an option:</label>
+      <select id="dropdown">
+        <option value="r">Red</option>
+        <option value="g">Green</option>
+        <option value="b">Blue</option>
+      </select>
+      <input type="submit">
+    </form>
+  </body>
+</html>
+
+<!--samples-->
+
+<form>
+ <select name="pet">
+  <option 
+     value="cat">Opt 1</option>
+  <option
+     value="dog">Opt 2</option>
+ </select>
+</form>
+
+<!--Labels for dropdown menu-->
+<html>
+  <head>
+    <title>Drop-down Menu</title>
+  </head>
+  <body>
+    <form>
+      <label for="s1">
+              Vehicle type:</label>
+      <select name="vehicle" id="s1">
+        <option value="car">
+              Car</option>
+        <option value="bus">
+              Bus</option>
+      </select>
+    </form>
+  </body>
+</html>
+
+<!--Pre-selected Options-->
+
+<select name="color">
+ <option value="r">
+         Red</option>
+ <option value="g">
+         Green</option>
+ <option value="b" selected>
+         Burgundy</option>
+</select>
+
