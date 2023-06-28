@@ -1,0 +1,82 @@
+<body>
+  <header>
+    <!--intro information--> 
+  </header>
+  <main>
+     <!--main content--> 
+  </main>
+  <footer>
+     <!--footer information--> 
+  </footer>
+</body>
+
+---------------------------
+<!-- add style-->
+<p style="color:red; text-align:right">Some text</p>
+---------------------------
+<h1 style="text-align:left; font-size:small">Some text</h1>
+---------------------------
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <p style="color:green; font-size=large">Some text</p 
+  </body>
+</html>
+--------------------
+<h1 style="color:blue;
+text-align:center">Centered Blue
+Text</h1>
+--------------------
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <button style="background-color:green; font-size:large">Click me</button>    	
+  </body>
+</html>
+------------
+<p style="border:1px solid red">
+Some text</p>
+-----------------<!--Borders samples-->
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <h2 style="border:dotted">dotted</h2>
+    <h2 style="border:dashed">dashed</h2>
+    <h2 style="border:solid">solid</h2>
+    <h2 style="border:double">double</h2>
+    <h2 style="border:inset">inset</h2>
+    <h2 style="border:outset">outset</h2>    	
+  </body>
+</html>
+----------------<!--Inline/Block borders-->
+
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <h2>Block-Level Elements</h2>
+                   <!--Start on a new line--> 
+    <h3 style="border:solid">Heading</h3>
+    <p style="border:solid">Paragraph</p>
+    <ul style="border:solid">
+      <li>List item A</li>
+      <li>List item B</li>
+    </ul>
+
+    <h2>Inline Elements</h2>
+                   <!--Don't start on a new line--> 
+    <p><b style="border:solid">
+    Bold</b> text</p>
+    <button style="border:solid">
+    Click me</button>
+    <label style="border:solid">
+    Label</label>    	
+  </body>
+</html>
