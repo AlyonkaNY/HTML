@@ -14,3 +14,32 @@ Click</button>     <!-- interactive button-->
 ----------------------------
 <button onclick="alert('Welcome')">
 Submit</button>
+-----------------------------
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <img id="robot" 
+    src="https://blob.sololearn.com/courses/robot-c.jpg"><br>
+    <button onclick="robot.src='https://upload.wikimedia.org/wikipedia/commons/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg'">
+    Show tree</button>    	
+  </body>
+</html>
+-----------------------------<!--Dancing-->
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <img id="robot" 
+    src="https://blob.sololearn.com/courses/robot-c.jpg"><br>
+    <button 
+    onclick="robot.src='https://blob.sololearn.com/courses/robot-l.jpg'">
+    Left</button>
+    <button 
+    onclick="robot.src='https://blob.sololearn.com/courses/robot-r.jpg'">
+    Right</button>   	
+  </body>
+</html>
+--------------------------------
